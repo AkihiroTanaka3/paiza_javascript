@@ -5,3 +5,4 @@ var randnum = parseInt(Math.random() * 10) +1;
 // console.log(randnum);
 // var number = 100;
 console.log("スライムが" + randnum + "匹あらわれた");
+console.log("サイコロの目は" + number + "です");
